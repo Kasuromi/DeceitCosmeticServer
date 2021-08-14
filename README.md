@@ -10,7 +10,8 @@ Last tested version: ``202108111151`` (v2021.6.2b)
 
 ## Usage
  - Download the latest [release](https://github.com/Kasuromi/DeceitCosmeticServer/releases) or compile the project. Check out [Compiling](#compiling) for required resources.
- - Locate your Deceit installation directory. It's usually located in `C:\Program Files (x86)\Steam\steamapps\common\Deceit\`
+ - Locate your Deceit installation directory.
+It's usually located in `C:\Program Files (x86)\Steam\steamapps\common\Deceit\`
  - Open the `Assets` folder and open `Scripts.pak` with any ZIP reader. (7-Zip, WinRar, etc.)
  - Inside the PAK file, open the `Scripts` folder then `Unlocks`
  - Extract `unlocks.csv` to the DeceitCosmeticServer executable directory
